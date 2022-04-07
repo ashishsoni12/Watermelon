@@ -1,0 +1,22 @@
+[{
+        "name": "url",
+        "required": true,
+        "dataype": "String",
+        "default": "http://xyz.com",
+        "description": "required to input"
+    },
+    {
+        "name": "API-Key",
+        "required": false,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    },
+    {
+        "name": "application name",
+        "required": false,
+        "dataype": "String",
+        "default": "http://xyz.com",
+        "description": "required to input"
+    }
+]

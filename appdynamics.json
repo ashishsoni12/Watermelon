@@ -1,0 +1,29 @@
+[{
+        "name": "userid",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    },
+    {
+        "name": "url",
+        "required": false,
+        "dataype": "String",
+        "default": "http://xyz.com",
+        "description": "required to input"
+    },
+    {
+        "name": "password",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    },
+    {
+        "name": "timezone",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    }
+]

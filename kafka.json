@@ -1,0 +1,16 @@
+[{
+        "name": "broker",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    },
+    {
+        "name": "topic",
+        "required": false,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    }
+
+]
