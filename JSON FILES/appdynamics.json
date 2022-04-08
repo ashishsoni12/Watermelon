@@ -1,0 +1,33 @@
+[{
+        "name": "userid",
+        "type":"text",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    },
+    {
+        "name": "url",
+        "type":"url",
+        "required": false,
+        "dataype": "String",
+        "default": "http://xyz.com",
+        "description": "required to input"
+    },
+    {
+        "name": "password",
+        "type":"password",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    },
+    {
+        "name": "timezone",
+        "type":"datetime-local",
+        "required": true,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    }
+]
