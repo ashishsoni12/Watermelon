@@ -1,5 +1,6 @@
 [{
         "name": "url",
+        "type":"url",
         "required": true,
         "dataype": "String",
         "default": "http://xyz.com",
@@ -7,6 +8,7 @@
     },
     {
         "name": "API-Key",
+        "type":"password",
         "required": false,
         "dataype": "String",
         "default": "xyz",
@@ -14,6 +16,7 @@
     },
     {
         "name": "application name",
+        "type":"text",
         "required": false,
         "dataype": "String",
         "default": "http://xyz.com",
