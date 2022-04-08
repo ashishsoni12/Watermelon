@@ -1,5 +1,6 @@
 [{
         "name": "userid",
+        "type":"text",
         "required": true,
         "dataype": "String",
         "default": "xyz",
@@ -7,6 +8,7 @@
     },
     {
         "name": "url",
+        "type":"url",
         "required": false,
         "dataype": "String",
         "default": "http://xyz.com",
@@ -14,6 +16,7 @@
     },
     {
         "name": "password",
+        "type":"password",
         "required": true,
         "dataype": "String",
         "default": "xyz",
@@ -21,6 +24,7 @@
     },
     {
         "name": "timezone",
+        "type":"datetime-local",
         "required": true,
         "dataype": "String",
         "default": "xyz",
