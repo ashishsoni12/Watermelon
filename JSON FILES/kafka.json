@@ -1,6 +1,6 @@
 [{
         "name": "broker",
-        "type":"text",
+        "type": "text",
         "required": true,
         "dataype": "String",
         "default": "xyz",
@@ -8,7 +8,14 @@
     },
     {
         "name": "topic",
-        "type":"text",
+        "type": "text",
+        "required": false,
+        "dataype": "String",
+        "default": "xyz",
+        "description": "required to input"
+    }, {
+        "name": "Adress",
+        "type": "text",
         "required": false,
         "dataype": "String",
         "default": "xyz",
